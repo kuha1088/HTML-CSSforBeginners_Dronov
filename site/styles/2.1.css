@@ -1,0 +1,18 @@
+/*
+	Укажем шрифт для тега <body> -
+	родителя всех элементов. Так удобнее.
+ */
+body {font-family: Arial;}
+h1 {
+	font-size: 32pt;
+	text-align: center;
+	font-family: Verdana;
+}
+p {
+	font-size: 14pt !important;
+	text-align: justify;
+}
+address {text-align: right;}
+.picture {text-align: center;}
+.picture img {width: 67%;}
+.greeting {font-size: 24pt;}
